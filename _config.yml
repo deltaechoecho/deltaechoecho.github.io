@@ -1,7 +1,7 @@
 # Site settings
-title: All futures are contested 
+title: Dee Harding is technically friendly
 email: dee@deltaechoecho.com
-description: Dee Harding is a researcher and public servant working in foresight, ethics, and resilience. 
+description: (they're technical, but also friendly) 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://deltaechoecho.github.io" # the base hostname & protocol for your site
 author:
