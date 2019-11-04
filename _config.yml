@@ -1,29 +1,29 @@
 # Site settings
-title: Dee Harding is technically friendly
+title: All futures are contested 
 email: dee@deltaechoecho.com
-description: (in that they're technical, and also friendly). 
+description: Dee Harding is a researcher and public servant working in foresight, ethics, and resilience. 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://deltaechoecho.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Newspeak House, Bethnal Green Road
+city: London
+#state: 
+zip_code: E2 7DG
+country: United Kingdom
+#phone: (716) 555-5555
 
 icon: fa-diamond # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
-github_url:
+github_url: https:github.com/u/deltaechoecho
 gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://www.instagram.com/dee.harding/
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/deltaechoecho
 
 # Build settings
 markdown: kramdown
