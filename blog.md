@@ -2,6 +2,8 @@
 title: blog
 ---
 
+Put in all writing that's not strictly fictional?
+
 <section>
 	<h3 class="major">Text</h3>
 	<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
