@@ -25,6 +25,7 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/deltaechoecho
 flickr_url: https://flickr.com/photos/umbriel
+medium_url: https://medium.com/@umbriel
 
 # Build settings
 markdown: kramdown
