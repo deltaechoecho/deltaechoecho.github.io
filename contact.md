@@ -2,6 +2,8 @@
 title: contact
 ---
 
+<p>Dee occasionally takes on a few hours a week for consulting on technically difficult projects. If you have a heavy-math or computationally-intensive problem that tackles tomorrow's thorny challenges, please get in touch.</p>
+
 <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
 		<div class="field half first">
