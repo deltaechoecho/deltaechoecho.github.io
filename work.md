@@ -13,6 +13,7 @@ image: pic02.jpg
 <li>Consultation on the Census for England and Wales, 2021</li>
 <li>AI development for Firef.ly</li>
 <li>Game design for Liars and Verifiers</li>
+<li>Interactive climate modelling installation for ASU</li>
 <li>The EAVI supercomputer</li>
 <li>Computational magic</li>  
 <li>New algorithms for HCI</li>
