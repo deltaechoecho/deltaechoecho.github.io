@@ -51,6 +51,9 @@ title: contact
 				{% if site.flickr %}
 				<li><a href="{{ site.flickr_url }}" class="icon fa-flickr" target="_blank"><span class="label">Slack</span></a></li>
 				{% endif %}
+				{% if site.medium %}
+				<li><a href="{{ site.medium_url }}" class="icon fa-medium" target="_blank"><span class="label">Slack</span></a></li>
+				{% endif %}
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
