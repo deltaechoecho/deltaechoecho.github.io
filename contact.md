@@ -48,10 +48,10 @@ title: contact
 				{% if site.slack_url %}
 				<li><a href="{{ site.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
 				{% endif %}
-				{% if site.flickr %}
+				{% if site.flickr_url %}
 				<li><a href="{{ site.flickr_url }}" class="icon fa-flickr" target="_blank"><span class="label">Slack</span></a></li>
 				{% endif %}
-				{% if site.medium %}
+				{% if site.medium_url %}
 				<li><a href="{{ site.medium_url }}" class="icon fa-medium" target="_blank"><span class="label">Slack</span></a></li>
 				{% endif %}
 				{% if site.linkedin_url %}
