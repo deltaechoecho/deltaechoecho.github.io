@@ -4,6 +4,8 @@ title: contact
 
 <p>Dee occasionally takes on a few hours a week for consulting on technically difficult projects. If you have a heavy-math or computationally-intensive problem that tackles tomorrow's thorny challenges or uses the internet to make new, weird, art, please get in touch.</p>
 
+<p>Once every six months or so they also lecture on climatology or the history of science and data, with a focus on the 1500s to 1800s. If you'd like to hear stories about Émilie du Chatelet (gambler!) or John Napier (wizard!), feel free to ask.
+
 <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
 		<div class="field half first">
