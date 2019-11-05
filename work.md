@@ -14,6 +14,7 @@ image: pic02.jpg
 <li>AI development for Firef.ly</li>
 <li>Game design for Liars and Verifiers</li>
 <li>The EAVI supercomputer</li>
+<li>Computational magic</li>  
 <li>New algorithms for HCI</li>
 <li>Trends in extreme windspeed</li>
 <li>Climate variability briefing</li>
