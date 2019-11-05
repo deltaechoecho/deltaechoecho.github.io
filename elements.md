@@ -1,5 +1,5 @@
 ---
-title: elements 2
+title: elements
 ---
 
 <section>
