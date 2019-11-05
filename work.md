@@ -2,6 +2,26 @@
 title: work
 image: pic02.jpg
 ---
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
+Dee currently works at the Centre for Data Ethics and Innovation, helping develop the right governance regime for data-driven technologies. 
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+Previous works include:
+
+Sustainable Development Goals Review
+Is Britain Fairer 2018
+The IBF Data Gaps strategy
+Consultation on the Census for England and Wales, 2021
+AI development for Firef.ly
+Game design for Liars and Verifiers
+The EAVI supercomputer
+New algorithms for HCI
+Trends in extreme windspeed
+Climate variability briefing
+Scientific sites at risk
+The Climate Services Partnership
+The future of farming 
+Multi-site flood risk
+Communicating Climate Change
+Climate justice for the world's women
+Changes in Mediterranean Climate Extremes
+
+Dee is an active editor for three climate science journals, and a fellow at Newspeak House. 
