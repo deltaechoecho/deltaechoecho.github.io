@@ -4,6 +4,20 @@ title: blog
 
 Put in all writing that's not strictly fictional?
 
+<section id="main" class="wrapper style1">
+  <header class="major">
+      <h2>Blog</h2>
+  </header>
+  {% for e in site.external_feed %}
+    <h2>{{ e.title }}</h2>
+    <p>{{ e.feed_content }}</p>
+  {% endfor %}
+<section class="special">
+  <ul class="actions">
+  <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+  </ul>
+</section>
+
 <section>
 	<h3 class="major">Text</h3>
 	<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
