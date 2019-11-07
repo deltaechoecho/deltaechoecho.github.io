@@ -9,11 +9,10 @@ image: pic02.jpg
 <ul>
   <li><a href="https://www.equalityhumanrights.com/en/publication-download/briefing-sustainable-development-goals">Sustainable Development Goals Review</a></li>
 <li><a href="https://www.equalityhumanrights.com/en/publication-download/britain-fairer-2018">Is Britain Fairer 2018</a></li>
-<li>The IBF Data Gaps strategy</li>
-<li>Consultation on the Census for England and Wales, 2021</li>
+<li>Consultation on the <a href="https://census.gov.uk/">2021 Census</a> for England and Wales</li>
 <li><a href="https://firef.ly">AI development for Firef.ly</a></li>
 <li><a href="https://blog.sourcefabric.org/en/news/blog/2867/Liars-and-Verifiers-a-role-playing-card-game.htm">Game design for Liars and Verifiers</a></li>
-<li>Interactive climate modelling installation for ASU</li>
+<li>Interactive climate modelling for <a href="https://synthesiscenter.net/projects/atmosphere-and-place/">Atmosphere and Place</a></li>
 <li>The <a href="http://eavi.goldsmithsdigital.com/">EAVI</a> supercomputer</li>
 <li><a href="http://computationalmagick.com">Computational magick</a></li>  
 <li>New algorithms for HCI</li>
@@ -24,7 +23,7 @@ image: pic02.jpg
 <li><a href="https://link.springer.com/article/10.1007/s10584-014-1296-8">Climate change and the future of farming</a></li>
 <li>Multi-site flood risk</li>
 <li><a href="http://www.mcgill.ca/geography/courses">Communicating Climate Change</a></li>
-<li>Climate justice for the world's women</li>
+<li>"Climate justice for the world's women" in Canada's <a href="https://www.nationslpost.com">National Post</a></li>
 <li><a href="https://crudata.uea.ac.uk/cru/pubs/thesis/2006-harding/">Changes in Mediterranean Climate Extremes</a></li>
 </ul>
 
