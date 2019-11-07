@@ -12,7 +12,7 @@ image: pic02.jpg
 <li>Consultation on the <a href="https://census.gov.uk/">2021 Census</a> for England and Wales</li>
 <li><a href="https://firef.ly">AI development for Firef.ly</a></li>
 <li><a href="https://blog.sourcefabric.org/en/news/blog/2867/Liars-and-Verifiers-a-role-playing-card-game.htm">Game design for Liars and Verifiers</a></li>
-<li>Interactive climate modelling for <a href="https://synthesiscenter.net/projects/atmosphere-and-place/">Atmosphere and Place</a></li>
+<li>Interactive climate modelling for <a href="http://synthesiscenter.net/projects/atmosphere-and-place/">Atmosphere and Place</a></li>
 <li>The <a href="http://eavi.goldsmithsdigital.com/">EAVI</a> supercomputer</li>
 <li><a href="http://computationalmagick.com">Computational magick</a></li>  
 <li>New algorithms for HCI</li>
