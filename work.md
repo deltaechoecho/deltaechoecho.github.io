@@ -7,7 +7,7 @@ image: pic02.jpg
 <p>Previous works include:</p>
 
 <ul>
-  <li>Sustainable Development Goals Review</li>
+  <li><a href"https://www.equalityhumanrights.com/en/publication-download/briefing-sustainable-development-goals">Sustainable Development Goals Review</a></li>
 <li>Is Britain Fairer 2018</li>
 <li>The IBF Data Gaps strategy</li>
 <li>Consultation on the Census for England and Wales, 2021</li>
