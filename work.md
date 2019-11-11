@@ -9,7 +9,7 @@ image: Pic12.jpg
 <ul>
   <li><a href="https://www.equalityhumanrights.com/en/publication-download/briefing-sustainable-development-goals">Sustainable Development Goals Review</a></li>
   <li><a href="https://royalsociety.org/topics-policy/projects/ihuman-perspective/supplementary-material/">Expert Witness for the Royal Society's Perspective on Neural Interfaces</a></li>
-<li><a href="https://www.equalityhumanrights.com/en/publication-download/britain-fairer-2018">Is Britain Fairer 2018</a></li>
+<li><a href="https://www.equalityhumanrights.com/en/publication-download/britain-fairer-2018">Statistician for Is Britain Fairer 2018</a></li>
 <li> <a href="https://census.gov.uk/">Consultation on the 2021 Census for England and Wales</a> </li>
 <li><a href="https://firef.ly">AI development for Firef.ly</a></li>
 <li><a href="https://blog.sourcefabric.org/en/news/blog/2867/Liars-and-Verifiers-a-role-playing-card-game.htm">Game design for Liars and Verifiers</a></li>
