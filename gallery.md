@@ -2,7 +2,8 @@
 title: gallery
 image: pic05.jpg
 ---
-Prints available at reasonable rates. 
+
+Olympus EM-10, EP-2, and a <b>lot</b> of travel.
 
 <div class="box alt">
 					<div class="row uniform 50%">
