@@ -1,8 +1,6 @@
 ---
-title: blog
----
 
-Put in all writing that's not strictly fictional?
+---
 
 <section id="main" class="wrapper style1">
   <header class="major">
