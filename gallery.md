@@ -1,6 +1,6 @@
 ---
 title: gallery
-image: pic03.jpg
+image: Pic03.jpg
 ---
 
 Olympus EM-10, EP-2, and a <b>lot</b> of travel. Prints available on request.
