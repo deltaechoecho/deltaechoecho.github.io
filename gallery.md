@@ -8,6 +8,3 @@ Prints available at reasonable rates.
 
 ![alt text](/assets/images/pic01.jpg "Shore")
 
-
-image: pic01.jpg
-
