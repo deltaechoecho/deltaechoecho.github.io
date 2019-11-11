@@ -1,5 +1,5 @@
 ---
 title: GT
 layout: gallery
-galleryid: gallery1
+galleryid: gallery
 --- 
