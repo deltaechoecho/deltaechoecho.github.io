@@ -2,10 +2,8 @@
 title: blog
 ---
 
-<ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+      <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      {{post.excerpt}}
   {% endfor %}
-</ul>
+
