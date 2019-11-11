@@ -1,0 +1,13 @@
+- id: gallery
+  description: Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
+  imagefolder: /assets/images/
+  images:
+  - name: Pic13.jpg
+    thumb: Pic02.jpg
+    text: Seoul Highway
+  - name: Pic14.jpg
+    thumb: Pic03.jpg
+    text: Sunset Stretch
+  - name: Pic15.jpg
+    thumb: Pic04.jpg
+    text: Fire on the hill
