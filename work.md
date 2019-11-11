@@ -26,4 +26,4 @@ image: Pic12.jpg
 <li><a href="https://crudata.uea.ac.uk/cru/pubs/thesis/2006-harding/">Changes in Mediterranean Climate Extremes</a></li>
 </ul>
 
-<p>Dee is an active editor for three climate science journals, and a fellow at <a href="https://nwspk.com">Newspeak House</a>. </p>
+<p>Dee is an active editor for three climate science journals, a member of the Heads Of Horizon Scanning network, and a fellow at <a href="https://nwspk.com">Newspeak House</a>. </p>
