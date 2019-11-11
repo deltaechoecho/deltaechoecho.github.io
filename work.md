@@ -1,6 +1,6 @@
 ---
 title: work
-image: pic02.jpg
+image: Pic05.jpg
 ---
 <p>Dee currently works at the Centre for Data Ethics and Innovation, helping develop the right governance regime for data-driven technologies. </p>
 
