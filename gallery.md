@@ -3,7 +3,7 @@ title: gallery
 image: pic05.jpg
 ---
 
-Olympus EM-10, EP-2, and a <b>lot</b> of travel.
+Olympus EM-10, EP-2, and a <b>lot</b> of travel. Prints available on request.
 
 <div class="box alt">
 					<div class="row uniform 50%">
