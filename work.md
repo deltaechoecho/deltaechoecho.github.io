@@ -19,11 +19,9 @@ image: Pic12.jpg
 <li><a href="https://www.climatexchange.org.uk/research/projects/current-and-future-windstorms-in-scotland/">Trends in extreme windspeed</a></li>
 <li><a href="https://www.climatexchange.org.uk/research/projects/future-climate-variability-and-unpredictability-in-scotland/">Climate variability briefing</a></li>
 <li><a href="https://www.climatexchange.org.uk/media/1542/notified_features_-_phase_4_report_-_final_-_may_2016.pdf">Scientific sites at risk</a></li>
-<li><a href="http://www.climate-services.org">Scottish Representation for the Climate Services Partnership</a></li>
 <li><a href="https://link.springer.com/article/10.1007/s10584-014-1296-8">Climate change and the future of farming</a></li>
-<li><a href="http://www.mcgill.ca/geography/courses">Communicating Climate Change</a></li>
 <li><a href="https://www.nationslpost.com">"Climate justice for the world's women" in Canada's National Post</a></li>
 <li><a href="https://crudata.uea.ac.uk/cru/pubs/thesis/2006-harding/">Changes in Mediterranean Climate Extremes</a></li>
 </ul>
 
-<p>Dee is an active editor for three climate science journals, a member of the Heads Of Horizon Scanning network, and a fellow at <a href="https://nwspk.com">Newspeak House</a>. </p>
+<p>Dee is an active editor for three climate science journals, a member of the Heads Of Horizon Scanning network, and a fellow at <a href="https://nwspk.com">Newspeak House</a>. They've taught classes in Fortran and Geophysics at UEA, Climate Modelling at UoE, and Communicating Climate Change at McGill.</p>
