@@ -9,6 +9,7 @@ title: blog
             <h3>{{ post.title }} </h3>
       <!-- </a> -->
       {{post.excerpt}}
+      <br />
       </div>
 {% endfor %}
 </div>
