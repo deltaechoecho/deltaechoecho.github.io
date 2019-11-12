@@ -8,7 +8,7 @@ title: blog
             <h6>{{ post.date | date: '%B %d, %Y' }}</h6>
             <h3>{{ post.title }} </h3>
       <!-- </a> -->
-      {{post.excerpt}}
+      {{post.content}}
       <br />
       </div>
 {% endfor %}
