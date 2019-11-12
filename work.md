@@ -16,7 +16,7 @@ image: Pic12.jpg
 <li> <a href="http://synthesiscenter.net/projects/atmosphere-and-place/">Interactive climate modelling for Atmosphere and Place</a></li>
 <li> <a href="http://eavi.goldsmithsdigital.com/">The EAVI supercomputer </a></li>
 <li><a href="http://computationalmagick.com">Computational magick</a></li>  
-<li><a href="https://www.climatexchange.org.uk/research/projects/current-and-future-windstorms-in-scotland/">Trends in extreme windspeed</a></li>
+<li><a href="https://www.climatexchange.org.uk/research/projects/current-and-future-windstorms-in-scotland/">Current and future windstorms</a></li>
 <li><a href="https://www.climatexchange.org.uk/research/projects/future-climate-variability-and-unpredictability-in-scotland/">Climate variability briefing</a></li>
 <li><a href="https://www.climatexchange.org.uk/media/1542/notified_features_-_phase_4_report_-_final_-_may_2016.pdf">Scientific sites at risk</a></li>
 <li><a href="https://link.springer.com/article/10.1007/s10584-014-1296-8">Climate change and the future of farming</a></li>
