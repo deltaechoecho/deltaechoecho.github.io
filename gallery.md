@@ -47,9 +47,9 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic11.jpg" alt="" /></span></div>
 </div>
 
-<div class="row uniform 50%">
+<!-- <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic12.jpg" alt="" /></span></div>
-</div>
+</div> -->
 
 <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic13.jpg" alt="" /></span></div>
@@ -119,9 +119,9 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic29.jpg" alt="" /></span></div>
 </div>
 
-<div class="row uniform 50%">
+<!-- <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic30.jpg" alt="" /></span></div>
-</div>
+</div>. -->
 
 <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic31.jpg" alt="" /></span></div>
@@ -159,8 +159,44 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic39.jpg" alt="" /></span></div>
 </div>
 
-<div class="row uniform 50%">
+<!-- <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic40.jpg" alt="" /></span></div>
+</div> -->
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic41.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic42.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic43.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic44.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic45.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic46.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic47.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic48.jpg" alt="" /></span></div>
+</div>
+
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="assets/images/Pic49.jpg" alt="" /></span></div>
 </div>
 
 
