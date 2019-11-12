@@ -5,7 +5,7 @@ title: blog
 {% for post in site.posts %}
       <div>
       <!-- <a href="{{ post.url }}"> -->
-      <h3 class="major">{{ post.title }} :: {{ post.date | date: '%B %d, %Y' }}</h3>
+      <h3>{{ post.title }} :: {{ post.date | date: '%B %d, %Y' }}</h3>
       <!-- </a> -->
       <p>{{post.excerpt}}</p>
       </div>
