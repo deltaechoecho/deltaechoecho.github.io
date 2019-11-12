@@ -1,5 +1,6 @@
 ---
 title: blog
+image: Pic40.jpg
 ---
 <div>
 {% for post in site.posts %}
