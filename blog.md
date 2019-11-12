@@ -1,11 +1,10 @@
 ---
 title: blog
 ---
-
-  {% for post in site.posts %}
+{% for post in site.posts %}
       <a href="{{ post.url }}">
-      <h2>{{ post.title }}</h2>
+      <h3 class="major">{{ post.title }}</h3>
       </a>
       <p>{{post.excerpt}}</p>
-  {% endfor %}
+{% endfor %}
 
