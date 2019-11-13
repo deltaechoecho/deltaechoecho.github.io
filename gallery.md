@@ -199,6 +199,4 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic49.jpg" alt="" /></span></div>
 </div>
 
-
 </div>
- 
