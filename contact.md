@@ -68,7 +68,7 @@ title: contact
 				<li><a href="{{ site.reddit_url }}" class="icon fa-reddit" target="_blank"><span class="label">Reddit</span></a></li>
 				{% endif %}
 				{% if site.stackoverflow_url %}
-				<li><a href="{{ site.stackoverflow_url }}" class="icon fa-stackoverflow" target="_blank"><span class="label">Stackoverflow</span></a></li>
+				<li><a href="{{ site.stackoverflow_url }}" class="icon fa-stack-overflow" target="_blank"><span class="label">Stackoverflow</span></a></li>
 				{% endif %}
 
 </ul>
