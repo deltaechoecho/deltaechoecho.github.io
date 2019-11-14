@@ -1,7 +1,7 @@
 # Site settings
 title: All Futures Are Contested
 email: dee@deltaechoecho.com
-description: Foresight, ethics, and social resilience
+description: Foresight, ethics, social resilience
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://deltaechoecho.github.io" # the base hostname & protocol for your site
 author:
@@ -13,9 +13,14 @@ country: United Kingdom
 #phone: (716) 555-5555
 
 icon: fa-map # Font Awesome class for your site's icon
+#if-halloween icon: fa-bat or fa-broom or fa-cauldron
+#if-birthday icon: fa-birthday-cake
+#if-voting icon: fa-box-ballot or fa-check-square
+#if-canada-day icon: fa-canadian-maple-leaf
+#if-rally icon: fa-car-bump
 
 # Social settings
-facebook_url: https://www.facebook.com/umbriel
+facebook_url: 
 github_url: https://github.com/deltaechoecho
 instagram_url: https://www.instagram.com/dee.harding/
 linkedin_url: https://www.linkedin.com/in/aeharding/
@@ -23,9 +28,10 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/deltaechoecho
 flickr_url: https://flickr.com/photos/umbriel
+  500px_url: https://500px.com/aeharding
 medium_url: https://medium.com/@deltaechoecho
 keybase_url: https://keybase.io/dee
-reddit_url: https://reddit.com/u/deltaechoecho
+reddit_url: # https://reddit.com/u/deltaechoecho
 stackoverflow_url: https://stackoverflow.com/users/5244342/dee-harding
 
 # Build settings

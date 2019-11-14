@@ -1,6 +1,6 @@
 ---
 title: about
-image: pic03.jpg
+image: Pic30.jpg
 ---
 
 All Futures is a landing page for Andrew 'Dee' Harding - a public servant and researcher working to make the unknown territory ahead of us a little bit better. They've developed forecasting algorithms for climate extremes and farming, conducted statistical assessments of Britain's levels of equality, and advised on the ethics of new technologies: working across public policy, socio-economic impacts, and the hard sciences for the last decade and a half. In each case, they’ve specialised in finding risks, vulnerabilities, and opportunities to grasp the future. 

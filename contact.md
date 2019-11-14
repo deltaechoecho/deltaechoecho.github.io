@@ -61,5 +61,14 @@ title: contact
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				{% if site.keybase_url %}
+				<li><a href="{{ site.keybase_url }}" class="icon fa-key" target="_blank"><span class="label">Keybase</span></a></li>
+				{% endif %}
+				{% if site.reddit_url %}
+				<li><a href="{{ site.reddit_url }}" class="icon fa-reddit" target="_blank"><span class="label">Reddit</span></a></li>
+				{% endif %}
+				{% if site.stackoverflow_url %}
+				<li><a href="{{ site.stackoverflow_url }}" class="icon fa-stack-overflow" target="_blank"><span class="label">Stackoverflow</span></a></li>
+				{% endif %}
 
 </ul>
