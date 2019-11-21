@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dee
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://deltaechoecho.com
+  * I am dee (https://keybase.io/dee) on keybase.
+  * I have a public key with fingerprint 5504 14EF 9783 076B 8480  0C99 968B 0A60 2142 C308
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010164a752b0286eb4d46156f8471bcf84a4a1797f318502bdc349cfcc6bae6df97f0a",
+      "fingerprint": "550414ef9783076b84800c99968b0a602142c308",
+      "host": "keybase.io",
+      "key_id": "968b0a602142c308",
+      "kid": "010164a752b0286eb4d46156f8471bcf84a4a1797f318502bdc349cfcc6bae6df97f0a",
+      "uid": "e7834034bd059ecf00b0661f88f1e719",
+      "username": "dee"
+    },
+    "service": {
+      "hostname": "deltaechoecho.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1574326071,
+  "expire_in": 157680000,
+  "prev": "ae7428f5f293309f156c2dacefba9115073f64fc731dea9916c588672cee93aa",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBRRGF7drcjKxLLIgmwsk9zWc+Y+q5Vd6EYWZUY3G86cOaNTOrPt
+jOtKFyiieimCzHrrIUiLSh+ihxI0NRC6SAUayBqSUYK9iHZDqzNSPfXYw+Hn/P/3
+fef7P07nLL8vJSk6kSo1dQQakp4+vlrtK+vZIR1jNFuvZcLHmCNkspBKnTiuesTU
+mTADIIAijySB1QAri0TjdV6EgmjIvAQ1TAviEZQUyeCgLABW0zHHK9jAWNQQEXWD
+TgBigoxhWuUkGomalktlBQHwkCd0KnNAEjWZlwHAiqKIsgaQCFjIs5gDMiVW2I7H
+oOY05JCQadMevaiT9v6B/8++qyflCPXJA47XdCAoBBsAaEAUoSHLBiQSVDygQ6IW
+qiIUrRPCnAgytBEzMfEy9Zb4O6x0EcEVtndC2K6i3EjUdm1sV9JxhetGwh7brY14
+8Bqiqb+FVM20dBojJcRI1DFtiwlDisSu6SlDQeI5VgQSDDIkHjGjRDWtybZIwwXA
+e4bEqCQiEs/KhmCwCscBxaCxYFZHmBgaUiAUgMQZIm9giYM6QYoCRSzIsiixmBCF
+Q14qDjlq2VRboT5ROdV0zHILudVRunh728GALynFN3VKsve/fCnT0/78usrEtB95
+m8dXr5t3Nj5e1JxTs4LtvlBTsHTwxsvPfmXTdW1D/dy3LXU/YVnu3a3Difr1gxOh
+1pVdaWvOZJC8pv7Q6MKh2829NW8elKrnepeko1unF11DU5dm1hYWtg8c7S5a9+1A
+bFdLvR+oE2Odhz9fnr+nKCsz9cXggiozkF+wOlx8fO/i775T+Z1dOwMzSs/AOf73
+Y6VfnOzW5uxDje131jiM/8PHmd8HOnarfVn9qV+X52bsz3oX39aYzeacfFQyO3wv
+cKkwfn97YjRzJLltSol8cVXw+Yh1XnqdGP7Us099Boqb0sNbchsbBoYGuxfXnX/4
+5Mram/GNfcH8sWWvksZXFfy8+QsxNzi0
+=9qaT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dee
+
+==================================================================
