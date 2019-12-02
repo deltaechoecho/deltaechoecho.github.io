@@ -1,7 +1,7 @@
 # Site settings
 title: All Futures Are Contested
 email: dee@deltaechoecho.com
-description: Foresight, ethics, social resilience
+description: Foresight, equality, social resilience
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://deltaechoecho.github.io" # the base hostname & protocol for your site
 author:
