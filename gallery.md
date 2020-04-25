@@ -1,6 +1,7 @@
 ---
 title: gallery
 image: Pic05.jpg
+include_in_nav: true
 ---
 
 Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
