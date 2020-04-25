@@ -35,5 +35,6 @@ stackoverflow_url: https://stackoverflow.com/users/5244342/dee-harding
 markdown: kramdown
 sass:
 style: compressed
+include: ['_pages']
 collections:
   - external_feed
