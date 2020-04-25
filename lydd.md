@@ -1,6 +1,6 @@
 ---
 layout: darkdays
-title: lydd
+title: "Light Years // Dark Days"
 permalink: /lydd/
 ---
 
