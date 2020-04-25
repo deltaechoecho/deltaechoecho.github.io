@@ -1,6 +1,6 @@
 ---
 title: "light years // dark days"
-permalink: "/about/"
+permalink: "/darkdays/"
 layout: "darkdays"
 ---
 
