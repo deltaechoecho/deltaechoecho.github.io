@@ -1,6 +1,7 @@
 ---
 title: work
 image: Pic12.jpg
+include_in_nav: true
 ---
 <p>Dee currently works at the <a href="https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation">Centre for Data Ethics and Innovation</a>, helping develop the right governance regime for data-driven technologies. </p>
 
