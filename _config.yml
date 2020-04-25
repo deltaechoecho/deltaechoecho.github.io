@@ -13,6 +13,7 @@ country: United Kingdom
 #phone: (716) 555-5555
 
 icon: fa-map # Font Awesome class for your site's icon
+dd-icon: fa-moon-o
 
 # Social settings
 facebook_url: 
