@@ -11,7 +11,7 @@
   <body>
 
 {% include header.html %}
-
+{% if include_in_nav %}
 {% for page in site.pages  %}
 {% if page.title %}
 
@@ -26,6 +26,7 @@
 
 {% endif %}
 {% endfor %}
+{% endif %}
 
 {% include footer.html %}
 
