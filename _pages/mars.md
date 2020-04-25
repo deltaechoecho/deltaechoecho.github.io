@@ -1,5 +1,5 @@
 ---
-title: "earth"
+title: "mars"
 include_in_dd: true
 permalink: "/darkdays/#mars"
 ---
