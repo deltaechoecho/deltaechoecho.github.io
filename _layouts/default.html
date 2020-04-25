@@ -12,7 +12,6 @@
 
 {% include header.html %}
 {% for page in site.pages  %}
-{% if include_in_nav == true %}
 {% if page.title %}
 
 <!-- {{ page.title }} -->
@@ -24,7 +23,6 @@
 </p>
 </article>
 
-{% endif %}
 {% endif %}
 {% endfor %}
 
