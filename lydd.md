@@ -1,5 +1,5 @@
 ---
-#layout: layoutdarkdays
+layout: darkdays
 title: lydd
 permalink: /lydd/
 ---
