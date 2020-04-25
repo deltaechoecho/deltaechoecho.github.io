@@ -36,6 +36,7 @@ markdown: kramdown
 sass:
 style: compressed
 include: ['_lydd']
+include: ['lydd']
 relative_permalinks: false
 collections:
   - external_feed
