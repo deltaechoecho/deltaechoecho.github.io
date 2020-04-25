@@ -1,7 +1,7 @@
 ---
 layout: "darkdays"
 title: "Light Years // Dark Days"
-permalink: 
+permalink: "/index/"
 ---
 
 hello world
