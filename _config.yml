@@ -32,9 +32,8 @@ stackoverflow_url: https://stackoverflow.com/users/5244342/dee-harding
 
 # Build settings
 markdown: kramdown
-
 sass:
 style: compressed
 
-collections:
-  - external_feed
+#collections:
+#  - external_feed
