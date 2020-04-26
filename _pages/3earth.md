@@ -1,7 +1,7 @@
 ---
 title: "Earth"
 include_in_dd: true
-permalink: "/darkdays/#earth"
+permalink: "/darkdays/"
 ---
 
 hello world
