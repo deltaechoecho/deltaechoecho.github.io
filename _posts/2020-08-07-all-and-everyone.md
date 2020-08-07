@@ -13,9 +13,9 @@ Those words are essentially a list, and one deliberately written in very plain, 
 
 I say should, because it’s an aspirational document, and it is still being fought over, and for. 
 
-Why now, in 2020, the articles are still being contested feels important. The UK’s government keeps on threatening to repeal our own Human Rights Act, as if every mention of the possibility will make it more likely, and fatigue will weaken opposition in a way no solid argument could. 
+Why now, in 2020, the articles are still being contested feels important. Various governments are busy passing discriminatory legislation, or continually threatening to repeal progressive laws and acts, as if every mention of the possibility will make it more acceptable, and fatigue will weaken opposition in a way no solid argument could. 
 
-What I think they fail to understand is that this whole process conjures every conceivable emotion to boil my blood. I’m sad that there should even be an argument. I’m furious that there are people who actively oppose these rights. I feel joy that there are those who ceaselessly, relentlessly, fight for them. To constantly expand their reach, to breathe them into life everywhere there’s a single human footfall.
+This whole process conjures every conceivable emotion to boil my blood. I’m sad that there should even be an argument. I’m furious that there are people who actively oppose these rights, and will change law to do so. I feel joy that there are those who ceaselessly, relentlessly, fight for them. To constantly expand their reach, to breathe them into life everywhere there’s a single human footfall.
 
 That fight feels like the defining feature of the last seventy years. And I hope, I hope desperately, that it will continue to be the defining feature for the next seventy years, or until that fight is won. We have come so far, and we still have so far to go. 
 
