@@ -11,7 +11,7 @@ Who don’t like the words that are being spoken.
 
 Those words are essentially a list, and one deliberately written in very plain, very simple language. It’s not florid, it doesn’t rhyme. It’s not particularly expressive, or even especially pretty. Just selected passages from one long inventory: a catalogue of articles in the Universal Declaration of Human Rights.  It details clearly, cleanly, and with words that were no doubt fought over, fought for, and edited to within an inch of their life, the rights that every single human should have. 
 
-I say should, because it’s an aspirational document, and it is still being fought over, and for. 
+I say should, because it’s an aspirational document. Still being fought over, and for. 
 
 Why now, in 2020, the articles are still being contested feels important. Various governments are busy passing discriminatory legislation, or continually threatening to repeal progressive laws and acts, as if every mention of the possibility will make it more acceptable, and fatigue will weaken opposition in a way no solid argument could. 
 
