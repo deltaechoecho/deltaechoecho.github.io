@@ -5,7 +5,7 @@ title:  "All and everyone"
 
 
 
-Max Richter’s Voices was released this week. It’s a beautiful album, and what it’s for is beautiful. Still, there will be people who disagree with me, who don’t like his music, who don’t like that it involves a lot of spoken word. 
+Max Richter’s <a href="https://www.youtube.com/watch?v=uWrc6ihmaE0&list=PLJXRgnc7mCv8vmOpNRurqUHyC5vXh46NI">Voices</a> was released this week. It’s a beautiful album, and what it’s for is beautiful. Still, there will be people who disagree with me, who don’t like his music, who don’t like that it involves a lot of spoken word. 
 
 Who don’t like the words that are being spoken. 
 
