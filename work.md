@@ -21,7 +21,7 @@ include_in_nav: true
 <li><a href="https://www.climatexchange.org.uk/research/projects/current-and-future-windstorms-in-scotland/">Current and Future Windstorms</a></li>
 <li><a href="https://www.climatexchange.org.uk/research/projects/future-climate-variability-and-unpredictability-in-scotland/">Climate Variability Briefing</a></li>
 <li><a href="https://www.climatexchange.org.uk/media/1542/notified_features_-_phase_4_report_-_final_-_may_2016.pdf">Scientific sites at risk</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s10584-014-1296-8">Climate change and the Future of Farming</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10584-014-1296-8">Climate Change and the Future of Farming</a></li>
 <li><a href="https://www.nationalpost.com">"Climate justice for the world's women" in Canada's National Post</a></li>
 <li><a href="https://crudata.uea.ac.uk/cru/pubs/thesis/2006-harding/">Changes in Mediterranean Climate Extremes</a></li>
 </ul>
