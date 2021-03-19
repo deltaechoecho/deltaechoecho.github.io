@@ -3,7 +3,7 @@ title: work
 image: Pic12.jpg
 include_in_nav: true
 ---
-<p>Dee currently works at the <a href="https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation">Centre for Data Ethics and Innovation</a>, helping develop the right governance regime for data-driven technologies. </p>
+<p>I currently work at the <a href="https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation">Centre for Data Ethics and Innovation</a>, helping develop the right governance regime for data-driven technologies. </p>
 
 <p>Previous works include:</p>
 
@@ -26,4 +26,6 @@ include_in_nav: true
 <li><a href="https://crudata.uea.ac.uk/cru/pubs/thesis/2006-harding/">Changes in Mediterranean Climate Extremes</a></li>
 </ul>
 
-<p>Dee is an active editor for three climate science journals, a member of the Heads Of Horizon Scanning network, and a fellow at <a href="https://nwspk.com">Newspeak House</a>. They've taught classes in Fortran and Geophysics at UEA, Climate Modelling at UoE, and Communicating Climate Change at McGill.</p>
+<p>I'm also a reviewer for <a href="https://www.springer.com/journal/10584">Climatic Change</a>, a fellow at <a href="https://nwspk.com">Newspeak House</a>, a trustee for <a href="https://conwayhall.org.uk">Conway Hall, a member of the Heads Of Horizon Scanning network, the Government Science and Engineering, and Geography professions and a board member for the upcoming Environmental Permit Data Service. I'm a <a href="https://www.ucl.ac.uk">UCL</a> alum who's taught classes in Fortran and Geophysics at <a href="https://www.uea.ac.uk"">UEA</a>, Climate Modelling at <a href="https://www.ed.ac.uk">UoE</a>, and Communicating Climate Change at <a href="https://www.mcgill.ca">McGill</a>.
+
+My full CV can be found on <a href="https://www.linkedin.com/in/aeharding/">LinkedIn</a>.
