@@ -16,12 +16,9 @@ icon: fa-map # Font Awesome class for your site's icon
 icon_dd: fa-sun-o
 
 # Social settings
-facebook_url: 
 github_url: https://github.com/deltaechoecho
 instagram_url: https://www.instagram.com/dee.harding/
 linkedin_url: https://www.linkedin.com/in/aeharding/
-pinterest_url:
-slack_url:
 twitter_url: https://twitter.com/ae_harding
 flickr_url: https://flickr.com/photos/umbriel
 500px_url: https://500px.com/aeharding
@@ -30,7 +27,11 @@ keybase_url: https://keybase.io/dee
 reddit_url: https://reddit.com/u/deltaechoecho
 stackoverflow_url: https://stackoverflow.com/users/5244342/dee-harding
 spotify url: https://open.spotify.com/user/umbriel
-#diaspora
+#diaspora:
+#facebook_url: 
+#pinterest_url:
+#slack_url:
+
 
 # Build settings
 markdown: kramdown
