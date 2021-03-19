@@ -73,5 +73,9 @@ include_in_nav: true
 				{% if site.stackoverflow_url %}
 				<li><a href="{{ site.stackoverflow_url }}" class="icon fa-stack-overflow" target="_blank"><span class="label">Stackoverflow</span></a></li>
 				{% endif %}
+				{% endif %}
+				{% if site.spotify_url %}
+				<li><a href="{{ site.spotify_url }}" class="icon fa-spotify" target="_blank"><span class="label">Spotify</span></a></li>
+				{% endif %}
 
 </ul>
