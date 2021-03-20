@@ -7,7 +7,7 @@ include_in_nav: true
 
 <p>Once every six months or so I also lecture on climatology or the history of science and data, with a focus on the 1500s to 1800s. If you'd like to hear stories about Émilie du Chatelet (gambler!) or John Napier (wizard!), feel free to ask.</p>
 
-<p>I publish all my scientific and policy work under Andrew, and all my art and writing under Dee. You can use either, but please don't confuse me by using one for the other, or expect me to be world famous BBC foreign correspondent, Andrew Harding. I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate.
+<p>I publish all my scientific and policy work under Andrew, and all my art and writing under Dee. You can use either, but please don't confuse me by using one for the other, or expect me to be world famous BBC foreign correspondent, <a href="http://www.andrew-harding.com/about">Andrew Harding</a>. I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate.
 	
 <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
