@@ -5,9 +5,9 @@ include_in_nav: true
 
 <p>I am almost universally Bad At Twitter, so if you want to get ahold of me and don't have my work details, the form below is for you. I do occasionally take on a few hours a week for consulting on technically difficult projects. Please get in touch for:</p> 
 <ul><li>on-hand expertise for public dialogue or futures work,</li>
-<li>heavy-math or computationally-intensive problems that tackles tomorrow's thorny challenges,</li> 
-<li>using the internet to make new, weird, art,</li>
-<li>lectures on climatology or the history of science and data, with a focus on the 1500s to 1800s.</li></ul> 
+<li>helping to solve heavy-math or computationally-intensive problems that tackle tomorrow's thorny challenges,</li> 
+<li>work that uses the internet to make new, weird, art,</li>
+<li>and lectures on climatology or the history of science and data, with a focus on the 1500s to 1800s.</li></ul> 
 <p>If you'd like to hear stories about Émilie du Chatelet (gambler!) or John Napier (wizard!), feel free to ask.</p>
 
 <p>I publish all my scientific and policy work under Andrew, and all my art, writing and history stuff under Dee. You can use either, but please don't confuse me by using one for the other, or expect me to be world famous BBC foreign correspondent, <a href="http://www.andrew-harding.com/about">Andrew Harding</a>. I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate.
