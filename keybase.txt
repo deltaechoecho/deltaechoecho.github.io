@@ -4,7 +4,7 @@ https://keybase.io/dee
 
 I hereby claim:
 
-  * I am an admin of http://deltaechoecho.com
+  * I am an admin of https://deltaechoecho.github.io
   * I am dee (https://keybase.io/dee) on keybase.
   * I have a public key with fingerprint 5504 14EF 9783 076B 8480  0C99 968B 0A60 2142 C308
 
@@ -22,42 +22,42 @@ To do so, I am signing this object:
       "username": "dee"
     },
     "service": {
-      "hostname": "deltaechoecho.com",
-      "protocol": "http:"
+      "hostname": "deltaechoecho.github.io",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1574326071,
+  "ctime": 1616348673,
   "expire_in": 157680000,
-  "prev": "ae7428f5f293309f156c2dacefba9115073f64fc731dea9916c588672cee93aa",
-  "seqno": 19,
+  "prev": "31cd524d273f54747c3bddfc27b769e0eaf2a41458e753e4374b7feb5b4466cd",
+  "seqno": 43,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.3
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMIlAnicrVJbSBRRGF7drcjKxLLIgmwsk9zWc+Y+q5Vd6EYWZUY3G86cOaNTOrPt
-jOtKFyiieimCzHrrIUiLSh+ihxI0NRC6SAUayBqSUYK9iHZDqzNSPfXYw+Hn/P/3
-fef7P07nLL8vJSk6kSo1dQQakp4+vlrtK+vZIR1jNFuvZcLHmCNkspBKnTiuesTU
-mTADIIAijySB1QAri0TjdV6EgmjIvAQ1TAviEZQUyeCgLABW0zHHK9jAWNQQEXWD
-TgBigoxhWuUkGomalktlBQHwkCd0KnNAEjWZlwHAiqKIsgaQCFjIs5gDMiVW2I7H
-oOY05JCQadMevaiT9v6B/8++qyflCPXJA47XdCAoBBsAaEAUoSHLBiQSVDygQ6IW
-qiIUrRPCnAgytBEzMfEy9Zb4O6x0EcEVtndC2K6i3EjUdm1sV9JxhetGwh7brY14
-8Bqiqb+FVM20dBojJcRI1DFtiwlDisSu6SlDQeI5VgQSDDIkHjGjRDWtybZIwwXA
-e4bEqCQiEs/KhmCwCscBxaCxYFZHmBgaUiAUgMQZIm9giYM6QYoCRSzIsiixmBCF
-Q14qDjlq2VRboT5ROdV0zHILudVRunh728GALynFN3VKsve/fCnT0/78usrEtB95
-m8dXr5t3Nj5e1JxTs4LtvlBTsHTwxsvPfmXTdW1D/dy3LXU/YVnu3a3Difr1gxOh
-1pVdaWvOZJC8pv7Q6MKh2829NW8elKrnepeko1unF11DU5dm1hYWtg8c7S5a9+1A
-bFdLvR+oE2Odhz9fnr+nKCsz9cXggiozkF+wOlx8fO/i775T+Z1dOwMzSs/AOf73
-Y6VfnOzW5uxDje131jiM/8PHmd8HOnarfVn9qV+X52bsz3oX39aYzeacfFQyO3wv
-cKkwfn97YjRzJLltSol8cVXw+Yh1XnqdGP7Us099Boqb0sNbchsbBoYGuxfXnX/4
-5Mram/GNfcH8sWWvksZXFfy8+QsxNzi0
-=9qaT
+yMIqAnicrVJbSBVBGD6Wl1LUCDJ6CjYiQ9HZ3dmZPUfCsKDCbmZkQnramZ31bB7P
+bntW63ipBDHsjtJDkSKYBWGIhA+SkHaP6EaBFATdfRCzzHooymbt8tRjD8PP/P/3
+ff/3/zPXU2f7kuOc72m491r8+bi7wx3Vvp0lzXF1ArH0mBCoEyrZTGBhnUXdYKWp
+CwEBiEBEUMOKRICkIkagDpGoIEOFWCSUBw1qIvZjQxZVBUhEpzL0U4NSRDSGdINX
+gCZkC4YZqWCO7ZgRl8sqCoAiZLyqygAjokIVAOr3+5FKgIaAJEKJykDlxJAV9Rjc
+HNGiLMe0eI5fgjP2/oH/z76rZ+QY9wmBDIkOFD+jBgAEICQaqmqIDIt+DxhlTkSr
+YhytMyY0ZAs8UWNS5u3UG+JvMexqjIYs7+RUmG6omvyaynYs16JWmINCrmtHA56I
+G7M91h5Ggr/1gsSM6HybnFHDnKhpRYSAyJHUNb0GIhKRDFWE5WyB7bVNhwVND6Fg
+xHcMgNeH1XBJWaS6IkFdwrKhQAwxlYmuG1TCBCM/A0wzJI2/kqIyrMgMyhgSbDCi
+EAgRorrgTbg7YgkByFu5WgXXjJoVEc2tdvj8V4d2xPvikn2JCbO8b+ZLnjvvz+er
+TU2a3nWj/91k7p4nBbOPD2SpmcVDkbPd8y8t/nCo83P3/bGiTT29JbHiTWMXHhS/
+7jIyMuw5aY+i34f3Hn17tNw+MJ3/2J6ItY4vtCdGc/tHRkoLfR3HX38teZUaXrel
+rC+zoHlzlXt21FdeVr9Vzdo2uer9m547n041Dl6jOaeNle1TKcPf3PTSkvxXg1fO
+TXVvL25akJJ4z315sTFvf97HM7UhsrGz/VmXU5N+YlV9X+uxW/tytbYVp5dJ1rMV
+taElS0+mbD01Mvo5KeNLQkNh3eGBtVn5Lc976cGB0sAiMxwuLypobW5LjN1+boQv
+969vebrmJiwFqx8eabJ/LP/0Ynxxb9KGn88JQlY=
+=Ajsb
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
