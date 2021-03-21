@@ -201,3 +201,5 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 </div>
 
 </div>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/umbriel/albums/72157675488876997" title="Wall"><img src="https://live.staticflickr.com/65535/48911974388_0131aeea2b_w.jpg" width="400" height="300" alt="Wall"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
