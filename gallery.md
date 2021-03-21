@@ -202,5 +202,5 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 
 </div>
 <div class="row uniform 50%">
-  <div class="4u"><span class="image fit">
-<a data-flickr-embed="true" data-footer="false" href="https://www.flickr.com/photos/umbriel/albums/72157675488876997" title="Flickr"><img src="https://live.staticflickr.com/65535/48038170651_94c93c3d1c_3k.jpg" height="200" alt="Wall"></a></span></div></div><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <div class="4u">
+<a data-flickr-embed="true" data-footer="false" href="https://www.flickr.com/photos/umbriel/albums/72157675488876997" title="Flickr"><span class="image fit"><img src="https://live.staticflickr.com/65535/48038170651_94c93c3d1c_3k.jpg" height="200" alt="Wall"></span></a></div></div><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
