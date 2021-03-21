@@ -3,9 +3,11 @@ title: contact
 include_in_nav: true
 ---
 
-<p>I occasionally take on a few hours a week for consulting on technically difficult projects. If you have a heavy-math or computationally-intensive problem that tackles tomorrow's thorny challenges or uses the internet to make new, weird, art please do get in touch. Once every six months or so I also lecture on climatology or the history of science and data, with a focus on the 1500s to 1800s. If you'd like to hear stories about Émilie du Chatelet (gambler!) or John Napier (wizard!), feel free to ask.</p>
+<p>I am almost universally Bad At Twitter, so if you want to get ahold of me and don't have my work details, the form below is for you.</p>
 
-<p>I publish all my scientific and policy work under Andrew, and all my art and writing under Dee. You can use either, but please don't confuse me by using one for the other, or expect me to be world famous BBC foreign correspondent, <a href="http://www.andrew-harding.com/about">Andrew Harding</a>. I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate.
+<p>It's worth mentioning that I occasionally take on a few hours a week for consulting on technically difficult projects. If you have a heavy-math or computationally-intensive problem that tackles tomorrow's thorny challenges or uses the internet to make new, weird, art please do get in touch. Once every six months or so I also lecture on climatology or the history of science and data, with a focus on the 1500s to 1800s. If you'd like to hear stories about Émilie du Chatelet (gambler!) or John Napier (wizard!), feel free to ask.</p>
+
+<p>I publish all my scientific and policy work under Andrew, and all my art, writing and history stuff under Dee. You can use either, but please don't confuse me by using one for the other, or expect me to be world famous BBC foreign correspondent, <a href="http://www.andrew-harding.com/about">Andrew Harding</a>. I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate.
 	
 <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
