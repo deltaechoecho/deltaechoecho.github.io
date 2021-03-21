@@ -48,9 +48,9 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic11.jpg" alt="" /></span></div>
 </div>
 
-<!-- <div class="row uniform 50%">
+<div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic12.jpg" alt="" /></span></div>
-</div> -->
+</div>
 
 <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic13.jpg" alt="" /></span></div>
