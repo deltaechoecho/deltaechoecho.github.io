@@ -3,7 +3,7 @@ title: contact
 include_in_nav: true
 ---
 
-<p>I am almost universally Bad At Twitter, so if you want to get ahold of me and don't have my work details, the form below is for you. I do occasionally take on a few hours a week for consulting on technically difficult projects. Please get in touch for:</p> 
+<p>I am almost universally Not Good At Twitter, so if you want to get ahold of me and don't have my work details, the form below is for you. I do occasionally take on a few hours a week for consulting on technically difficult projects. Please get in touch for:</p> 
 <ul><li>on-hand expertise for public dialogue or futures work,</li>
 <li>helping to solve heavy-math or computationally-intensive problems that tackle tomorrow's thorny challenges,</li> 
 <li>work that uses the internet to make new, weird, art,</li>
