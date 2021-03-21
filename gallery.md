@@ -120,9 +120,9 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic29.jpg" alt="" /></span></div>
 </div>
 
-<!-- <div class="row uniform 50%">
+<div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic30.jpg" alt="" /></span></div>
-</div>. -->
+</div>
 
 <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic31.jpg" alt="" /></span></div>
@@ -197,7 +197,7 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 </div>
 
 <div class="row uniform 50%">
-<div class="4u"><span class="image fit"><a href="https://500px.com/p/aeharding?view=photos"><img src="assets/images/Pic49.jpg" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="https://500px.com/p/deltaechoecho?view=photos"><img src="assets/images/Pic49.jpg" alt="" /></a></span></div>
 </div>
 
 </div>
