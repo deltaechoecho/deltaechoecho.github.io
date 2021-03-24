@@ -20,9 +20,9 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 <div class="4u"><span class="image fit"><img src="assets/images/Pic04.jpg" alt="" /></span></div>
 </div>
 
-<!-- <div class="row uniform 50%">
+<div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic05.jpg" alt="" /></span></div>
-</div> -->
+</div>
 
 <div class="row uniform 50%">
 <div class="4u"><span class="image fit"><img src="assets/images/Pic06.jpg" alt="" /></span></div>
@@ -37,11 +37,11 @@ Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
 </div>
 
 <div class="row uniform 50%">
-<div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/umbriel/27294628299/in/album-72157675488876997/"><img src="assets/images/Pic09.jpg" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><img src="assets/images/Pic09.jpg" alt="" /></span></div>
 </div>
 
 <div class="row uniform 50%">
-<div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/umbriel/27294628299/in/album-72157675488876997/"><img src="assets/images/Pic10.jpg" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><img src="assets/images/Pic10.jpg" alt="" /></span></div>
 </div>
 
 <div class="row uniform 50%">
