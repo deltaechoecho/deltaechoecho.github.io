@@ -4,7 +4,7 @@ image: Pic05.jpg
 include_in_nav: true
 ---
 
-Olympus EM-10, EP-2, and a lot of travel. Prints available on request.
+<p>Olympus EM-10, EP-2, and a lot of travel. Prints available on request.</p>
 
 <div class="box alt">
   {% for image in site.static_files %}
