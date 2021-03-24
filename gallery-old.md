@@ -1,5 +1,5 @@
 ---
-title: gallery
+title: gallery-old
 image: Pic05.jpg
 include_in_nav: false
 ---
