@@ -4,6 +4,8 @@ image: Pic40.jpg
 include_in_nav: true
 ---
 <div>
+
+<!--
 {% for post in site.posts %}
       <div>
       <!-- <a href="{{ post.url }}"> -->
@@ -14,4 +16,5 @@ include_in_nav: true
       <br />
       </div>
 {% endfor %}
+-->
 </div>
