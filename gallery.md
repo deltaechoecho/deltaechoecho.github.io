@@ -8,7 +8,7 @@ include_in_nav: true
 
 <div class="box alt">
   {% for image in site.static_files %}
-  {% if image.path contains 'images/gallery/' %}
+  {% if image.path contains 'assets/images/gallery/' %}
   <div class="row uniform 50%"><div class="4u"><span class="image fit"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></span></div></div>
   {% endif %}
   {% endfor %}
