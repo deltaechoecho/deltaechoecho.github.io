@@ -1,5 +1,5 @@
 ---
-title: gallery2
+title: gallery
 image: Pic05.jpg
 include_in_nav: true
 ---
