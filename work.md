@@ -3,7 +3,7 @@ title: work
 image: Pic12.jpg
 include_in_nav: true
 ---
-<p>I currently work at the <a href="https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation">Centre for Data Ethics and Innovation</a>, helping develop the right governance regime for data-driven technologies. </p>
+<p>I currently work at the <a href="https://www.nhsx.nhs.uk">NHSX</a>, helping develop the right governance regime for open source technology across our healthcare system.</p>
 
 <p>Previous works include:</p>
 
