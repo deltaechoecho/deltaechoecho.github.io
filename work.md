@@ -9,6 +9,8 @@ include_in_nav: true
 
 <ul>
   <li><a href="https://www.gov.uk/government/publications/g7-health-track-digital-health-final-reports">Author for the G7 Health Track: digital health final reports</a></li>
+  <li><a href="https://www.coe.int/en/web/inclusion-and-antidiscrimination/-/new-online-course-on-ai-and-discrimination">UK Convener for the Council Of Europe online training course on artificial intelligence and discrimination</a></li>
+  <li><a href="https://www.coe.int/en/web/artificial-intelligence/cahai">UK representative expert for the Council of Europe Ad hoc Committee on Artificial Intelligence</a></li>
   <li><a href="https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making">Author for Review Into Bias in Algorithmic Decision-making</a></li>
   <li><a href="https://www.equalityhumanrights.com/en/publication-download/briefing-sustainable-development-goals">Sustainable Development Goals Review</a></li>
   <li><a href="https://www.equalityhumanrights.com/en/advice-and-guidance/gender-pay-gap-reporting">Statistician for Gender Pay Gap Reporting</a></li>
