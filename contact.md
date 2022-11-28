@@ -3,7 +3,7 @@ title: contact
 include_in_nav: true
 ---
 
-<p>I am almost universally Not Good At Twitter, so if you want to get ahold of me and don't have my work details, the form below is for you. In addition to being the Open Tech lead for NHSX I occasionally take on a few hours a week for consulting on technically difficult projects. Please get in touch for:</p> 
+<p>I am almost universally Not Good At Twitter (thank goodness), so if you want to get ahold of me and don't have Mastodon or my work details, the form below is for you. In addition to being the Open Tech lead for NHS England I occasionally take on a few hours a week for consulting on technically difficult projects. Please get in touch for:</p> 
 <ul>
 <li>open source in healthtech</li>
 <li>International Patient Summaries</li>
