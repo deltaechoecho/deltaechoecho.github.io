@@ -8,13 +8,13 @@ include_in_nav: true
 <li>open source in healthtech</li>
 <li>International Patient Summaries</li>
 <li>European AI policy</li>
-<li>on-hand expertise for public dialogue or futures work,</li>
+<li>on-hand expertise for public dialogue or futures work, especially around disability</li>
 <li>helping to solve heavy-math or computationally-intensive problems that tackle tomorrow's thorny challenges,</li> 
 <li>work that uses the internet to make new, weird, art,</li>
 <li>and lectures on climatology or the history of science and data, with a focus on the 1500s to 1800s.</li></ul> 
 <p>If you'd like to hear stories about Émilie du Chatelet (gambler!) or John Napier (wizard!), feel free to ask.</p>
 
-<p>I publish all my scientific and policy work under AE Harding, and for everything else I use Dee (which I prefer). You can use either, but please don't confuse me by using one for the other, or expect me to be a world famous <a href="http://www.andrew-harding.com/about">BBC foreign correspondent</a>, I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate.
+<p>I publish all my scientific and policy work under AE Harding, and for everything else I use Dee (which I prefer). You can use either, but please don't confuse me by using one for the other, or expect me to be a world famous <a href="http://www.andrew-harding.com/about">BBC foreign correspondent</a>, I have never been to Eyl and he, to the best of my knowledge, doesn't have a doctorate. 
 	
 <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
