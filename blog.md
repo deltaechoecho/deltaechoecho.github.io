@@ -1,7 +1,6 @@
 ---
 title: blog
 image: Pic40.jpg
-include_in_nav: true
 ---
 <div>
 
