@@ -3,7 +3,7 @@ title: work
 image: Pic12.jpg
 include_in_nav: true
 ---
-<p>I currently work at NHS England, helping develop the right governance regime for open source technology across our healthcare system.</p>
+<p>I currently work at NHS England, helping develop the right governance regime for data and technology across our healthcare system.</p>
 
 <p>Previous works include:</p>
 
