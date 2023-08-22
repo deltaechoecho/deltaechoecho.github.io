@@ -4,7 +4,7 @@ image: Pic30.jpg
 include_in_nav: true
 ---
 
-All Futures is written by Andrew (Dee) Harding.
+All Futures is written by Dee Harding.
 
 I'm a public servant and researcher you could broadly call a geographer. I've developed forecasting algorithms for climate extremes and farming, conducted statistical assessments of Britain's levels of equality, and advised on the ethics and likely impacts of new technologies: working across public policy, socio-economic impacts, and the hard sciences for the last decade and a half. In each case, I’ve specialised in finding risks, vulnerabilities, and opportunities to grasp the future. 
 
